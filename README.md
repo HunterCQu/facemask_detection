@@ -4,16 +4,15 @@
 The facemask _detection base on SSD training Model
 
 ## Requirements
-- easydict
-- [hdbscan](https://pypi.org/project/hdbscan/)
-- numba
 - numpy
 - Tensorflow 2.1.0
 - python=3.7
+- Kaggle(if you need)
 - tqdm
 
 ## Getting Started
 1.Run voc2ssd.py, then changing "xmlfilepath" & "saveBasePath" to the path you'd like
+
 2.Run the voc_annotation.py:
 Line6- Changing "classes" to the classes you target. 
 Line9- "in_file"'s path shoulud be the path of your dataset's annotations-set
