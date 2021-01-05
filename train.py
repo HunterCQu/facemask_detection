@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append("../input/facemask-detection/facemasknet")
+sys.path.append("../input/facemask-detection/facemasknet") ##  在kaggle训练需要的，获取input的路径
 from tensorflow.keras.callbacks import TensorBoard, ReduceLROnPlateau, EarlyStopping
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam
