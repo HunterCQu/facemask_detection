@@ -49,4 +49,5 @@ So far you will get 5 more txtfiles
 
 
 ## Tips
+-  The datas you will need post on https://pan.baidu.com/s/1DCTQCBSdgpaGSMu7QO-HQg and the code is h4a1
 Don't forget your dataset and start to TRAINING YOUR MODEL NOW  !!!
