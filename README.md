@@ -4,16 +4,16 @@
 The facemask _detection base on SSD training Model
 
 ## Requirements
-- numpy
+
 - Tensorflow 2.1.0
 - python=3.7
 - Kaggle(if you need)
-- tqdm
+
 
 ## Getting Started
-1.Run voc2ssd.py, then changing "xmlfilepath" & "saveBasePath" to the path you'd like
+- 1.Run voc2ssd.py, then changing "xmlfilepath" & "saveBasePath" to the path you'd like
 
-2.Run the voc_annotation.py:
+- 2.Run the voc_annotation.py:
 
 
 Line6- Changing "classes" to the classes you target. 
@@ -32,7 +32,7 @@ So far you will get 5 more txtfiles, they are
 'trainval.txt' 
 and '2020_train.txt'
 
-3.Run train.py:
+- 3.Run train.py:
 
 
 Line2- Just for the training set up on the Kaggle plateform
