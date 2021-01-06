@@ -16,13 +16,13 @@ The facemask _detection base on SSD training Model
 - 2.Run the voc_annotation.py:
 
 
-Line6- Changing "classes" to the classes you target. 
+    Line6- Changing "classes" to the classes you target. 
 
 
-Line9- "in_file"'s path shoulud be the path of your dataset's annotations-set
+    Line9- "in_file"'s path shoulud be the path of your dataset's annotations-set
 
 
-Line32- "list_file.write"'s path should be the path of dataset
+    Line32- "list_file.write"'s path should be the path of dataset
 
 
 So far you will get 5 more txtfiles, they are 
