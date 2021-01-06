@@ -25,12 +25,7 @@ The facemask _detection base on SSD training Model
             Line32- "list_file.write"'s path should be the path of dataset
 
 
-So far you will get 5 more txtfiles, they are 
-'train.txt' 
-'val.txt' 
-'teset.txt' 
-'trainval.txt' 
-and '2020_train.txt'
+So far you will get 5 more txtfiles
 
 - 3.Run train.py:
 
